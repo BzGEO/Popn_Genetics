@@ -7,3 +7,9 @@ After my just and lawful debts are paid, I will and bequeath upon Phoebe Flowers
 Written in my hand this thirtieth day of September in the year of our Lord, one thousand eight hundred and thirty, signed at Belize, Honduras, on the day and date above written.
 
 W.T. Cherrington (signature)
+
+
+## Other information
+* The above is a verbatim reproduction of William Taylor Cherrington's last will and testament from 1830.
+* William T. Cherrington was born in England, and was baptized on 31 March 1777.
+* William T. Cherrington later passed away in 1834.
