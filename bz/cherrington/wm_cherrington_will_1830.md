@@ -9,7 +9,7 @@ Written in my hand this thirtieth day of September in the year of our Lord, one 
 W.T. Cherrington (signature)
 
 
-## Other information
+### Other information
 * The above is a verbatim reproduction of William Taylor Cherrington's last will and testament from 1830.
 * William T. Cherrington was born in England, and was baptized on 31 March 1777.
 * William T. Cherrington later passed away in 1834.
