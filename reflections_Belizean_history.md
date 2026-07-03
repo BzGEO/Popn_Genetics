@@ -14,3 +14,6 @@
 
 ***A revised history curriculum at SJC***
 * In Nov. 2019, while visiting with a friend (Kirkland Smith) who was teaching at SJC, I had the opportunity to chat with Yasser Musa and Delmer Tzib, who had apparently reinvigorated the Belizean History curriculum at SJC, and who had set up a website (now defunct) with different materials on Belizean history. I spoke with Yasser and Delmer about the findings from the genetic research I had engaged in, and I likewise conveyed that I had not learned history at SJC in a more active form.
+
+## References
+See: https://github.com/BzGEO/Popn_Genetics/blob/main/refs_bz.md.
