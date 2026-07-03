@@ -12,6 +12,6 @@ W.T. Cherrington (signature)
 ### Notes
 * *The above is a verbatim reproduction of William Taylor Cherrington's last will and testament from 1830.*
 * *The original version of the will is on file at the Belize Archives and Records Service (BARS) in Belmopan, Belize.*
-* *William T. Cherrington was born in England, and was baptized on 31 March 1777.*
-* *William T. Cherrington later passed away in 1834.*
+* *William T. Cherrington was born in England, and was baptized on [31 March 1777](https://www.familysearch.org/ark:/61903/1:1:NLJ5-HJR?lang=en).*
+* *William T. Cherrington passed away in 1834.*
 * *William T. Cherrington, along with his common-law wife Phoebe Flowers, was the progenitor of the Belizean branch of the Cherrington family (and a direct male ancestor of the author of this GitHub repository.*
