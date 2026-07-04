@@ -1,5 +1,5 @@
 # Follow-up
-*Last updated: 04.07.2026*
+*Last updated: 🕚 04.07.2026*
 
 
 * Most of E. Leacock's Belize relatives in 23andMe (66 of 105 in total) are on mother's side (vs. 34 on father's side) -> G. Leacock's only real linkage to Belize is via A. Peters' mother, M. Peters, since A. Peters' father was Cape Verdean, and G. Leacock's father was ethnically German
