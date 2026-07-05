@@ -20,6 +20,8 @@
 
 * Heusner, J.A. 2016. [The Life, Times, and Legacy of Dr. Karl Stanislaus Heusner](https://books.google.com.gt/books/about/The_Life_Times_Legacy_of_Dr_Karl_Stanisl.html?id=mHE7ngAACAAJ&redir_esc=y). BRC Printing. Benque Viejo del Carmen, Belize. ISBN 978-0-692-75748-2. 206 pp.
 
+* Hoffmann, I. 2014. [British Honduras: The invention of a colonial territory. Mapping and spatial knowledge in the 19th century](https://horizon.documentation.ird.fr/exl-doc/pleins_textes/divers19-12/010063025.pdf). Cubola Productions / Institut de Recherche pour le Developpernent (IRD). Benque Viejo del Carmen, Belize. ISBN  978-976-8161-40-6. 79 pp.
+
 * Houk, B.A. 2015. [Ancient Maya Cities of the Eastern Lowlands](https://www.amazon.com/Ancient-Cities-Eastern-Lowlands-World-ebook/dp/B01M24GL7Y). University Press of Florida. Gainesville, Florida. ISBN 978-0-8130-6063-7. 345 pp.
 
 * Johnson, M.A. 2019. [Becoming Creole: Nature and Race in Belize](https://www.amazon.com/Becoming-Creole-Critical-Caribbean-Studies/dp/081359698X). Rutgers University Press. New Jersey. ISBN 978-0813596983. 248 pp.
