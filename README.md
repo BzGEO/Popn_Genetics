@@ -7,11 +7,14 @@ Miscellaneous resources related to human population genetics / genetic genealogy
 
 ## News articles
 
-*Modern humans*
+### Modern humans
 <!--
-- []() [source: ]
+- []() [source: ** news article, 202x]
 -->
 
+**2026**
+
+- [Mathematics formula found on Maya wall rivals insights of ancient masters. Mathematical texts from a Maya site in Guatemala identify an astronomer called Sak Tahn Waax.](https://www.nature.com/articles/d41586-026-02170-8) [source: *Nature* news article, 2026]
 - [The evolutionary history and unique genetic diversity of Indigenous Americans](https://www.nature.com/articles/s41586-026-10406-w) [source: *Nature*, 2026]
 - [A New Big Database of DNA From Indigenous Americans Shakes Up Scientists’ Theories About Human Settlement of South America](https://www.smithsonianmag.com/smart-news/a-new-big-database-of-dna-from-indigenous-americans-shakes-up-scientific-theories-about-human-settlement-of-south-america-180988628/) [source: *Smithsonian*, 2026]
 
@@ -21,6 +24,8 @@ Miscellaneous resources related to human population genetics / genetic genealogy
 - [Medieval DNA reveals trans-Saharan connections, rapid genetic mixing and leprosy in Islamic Ibiza](https://phys.org/news/2026-03-medieval-dna-reveals-trans-saharan.html) [source: *Phys.org*, 2026]
 - [Debate explodes over age of key South American archaeological site: New study argues Monte Verde is far younger than once thought, challenging when people arrived in the Americas](https://www.science.org/content/article/debate-explodes-over-age-key-south-american-archaeological-site) [source: *Science*, 2026]
 - [RootsTech Innovation and Tech Forum 2026](https://www.familysearch.org/en/rootstech/session/rootstech-innovation-and-tech-forum-2026) videos [source: *FamilySearch*, 2026]
+
+**2025**
 - [High-resolution genomic history of early medieval Europe](https://www.nature.com/articles/s41586-024-08275-2) [source: *Nature*, 2025]
 - [Ancient DNA connects large-scale migration with the spread of Slavs](https://www.nature.com/articles/s41586-025-09437-6) [source: *Nature*, 2025]
 - [Oregon cave holds 12,000-year-old sewn materials](https://www.npr.org/2026/02/23/nx-s1-5714550/oregon-cave-holds-12-000-year-old-sewn-materials) [source: NPR, 2026]
@@ -32,7 +37,6 @@ Miscellaneous resources related to human population genetics / genetic genealogy
 - [The Hidden Denisovan Gene That Helped Humans Conquer the Americas](https://scitechdaily.com/the-hidden-denisovan-gene-that-helped-humans-conquer-the-americas/) [source: *SciTech Daily* article, 2025]
 - [Your DNA Might Say 'Viking' but Science Says Genetic Ancestry Tests Never Tell the Whole Story](https://www.zmescience.com/medicine/genetic/your-dna-might-say-viking-but-science-says-genetic-ancestry-tests-never-tell-the-whole-story/) [source: *ZME Science*, 2025]
 - [Huge undersea wall dating from 5000 BC found in France](https://www.bbc.com/news/articles/crk7lg1j146o) [source: BBC article, 2025]
-
 - [Human gene maps are biased... study reveals](https://medicalxpress.com/news/2025-12-human-gene-biased-european-ancestries.html) [source: *Medical Xpress*, 2025]
 - [Two 7,000-year-old mummified women discovered with strange DNA profiles](https://www.earth.com/news/two-7000-year-old-mummified-women-discovered-with-strange-dna-profiles/) [source: *Earth.com* article, 2025]
 - [Ancient DNA Reveals That a Teenage Girl Chewed on This Wad of ‘Gum’ 10,500 Years Ago: Based on genetic material preserved in birch bark tar from Estonia, researchers found that the teen likely had brown hair and brown eyes](https://www.smithsonianmag.com/smart-news/ancient-dna-reveals-teenage-girl-chewed-on-a-wad-of-gum-10500-years-ago-180987763/) [source: *Smithsonian Magazine*, 2025]
@@ -52,23 +56,32 @@ Miscellaneous resources related to human population genetics / genetic genealogy
 - [1,300-year-old skeletons found in England had grandparents from sub-Saharan Africa, DNA studies reveal](https://www.livescience.com/archaeology/1-300-year-old-skeletons-found-in-england-had-grandparents-from-sub-saharan-africa-dna-studies-reveal?utm_source=Live+Audience&utm_campaign=48d5c9bc00-nature-briefing-daily-20250813) [source: Live Science, 2025]
 - [First human genome from ancient Egypt sequenced from 4,800-year-old teeth](https://www.nature.com/articles/d41586-025-02102-y) [source: *Nature* article, 2025]
 - [Race, ethnicity don’t match genetic ancestry, according to a large U.S. study](https://www.science.org/content/article/race-ethnicity-don-t-match-genetic-ancestry-according-large-u-s-study) [source: *Science* article, 2025]
-    - [People's racial and ethnic identities don't reflect their genetic ancestry](https://www.livescience.com/health/genetics/peoples-racial-and-ethnic-identities-dont-reflect-their-genetic-ancestry) [source: Live Science, 2025]
+- [People's racial and ethnic identities don't reflect their genetic ancestry](https://www.livescience.com/health/genetics/peoples-racial-and-ethnic-identities-dont-reflect-their-genetic-ancestry) [source: Live Science, 2025]
 - [Ancient DNA reveals Phoenicians’ surprising genetic ancestry](https://www.nature.com/articles/d41586-025-01283-w) [source: *Nature* article, 2025]
 - [Paternity Detective - Geneticist Maarten Larmuseau tackles a touchy question: How often are children genetically unrelated to their presumed fathers?](https://www.science.org/content/article/how-often-are-children-genetically-unrelated-their-presumed-fathers) [source: *Science* feature, 2025]
 - [How centuries of isolation shaped Greenlanders’ unique genetics](https://www.nature.com/articles/d41586-025-00443-2) [source: *Nature* article, 2025]
 - [Scientists Found 6,000-Year-Old Human Remains. No Other People Share Their DNA](https://www.yahoo.com/news/scientists-found-6-000-old-133000412.html) [source: Popular Mechanics via Yahoo News, 2025]
-    - [A 6000-year-long genomic transect from the Bogotá Altiplano reveals multiple genetic shifts in the demographic history of Colombia](https://www.science.org/doi/10.1126/sciadv.ads6284) [source: *Science*, 2025]
-- [DNA from ancient graves reveals the culture of a mysterious nomadic people](https://www.nature.com/articles/d41586-024-01165-7) [source: *Nature* news article, 2024]
+- [A 6000-year-long genomic transect from the Bogotá Altiplano reveals multiple genetic shifts in the demographic history of Colombia](https://www.science.org/doi/10.1126/sciadv.ads6284) [source: *Science*, 2025]
 - [Native American tribe teams up with genomicists to confirm link to iconic ancient site]( https://www.nature.com/articles/d41586-025-01362-y) [source: *Nature* article, 2025]
+
+**2024**
+- [DNA from ancient graves reveals the culture of a mysterious nomadic people](https://www.nature.com/articles/d41586-024-01165-7) [source: *Nature* news article, 2024]
 - [Modern Blackfoot people descend from an ancient ice age lineage](https://www.science.org/content/article/modern-blackfoot-people-descend-ancient-ice-age-lineage) [source: *Science* news article, 2024]
+- [Ancient DNA from Maya ruins tells story of ritual human sacrifices. Children sacrificed at Chichén Itzá have genetic links to people living near the ancient Maya city in Mexico, and hint at the effects of colonial-era epidemics.](https://www.nature.com/articles/d41586-024-01759-1) [source: *Nature* news article, 2024]
+
+**2023**
 - [5000-year-old ‘Iceman’ had dark skin and a receding hairline](https://www.science.org/content/article/otzi-tyrolean-iceman-had-dark-skin-and-receding-hairline) [source: *Science*, 2023]
-     - [High-coverage genome of the Tyrolean Iceman reveals unusually high Anatolian farmer ancestry](https://www.cell.com/cell-genomics/fulltext/S2666-979X(23)00174-X) [source: *Cell* article, 2023]
+- [High-coverage genome of the Tyrolean Iceman reveals unusually high Anatolian farmer ancestry](https://www.cell.com/cell-genomics/fulltext/S2666-979X(23)00174-X) [source: *Cell* article, 2023]
+
+**2022**
 - [South-to-north migration preceded the advent of intensive farming in the Maya region](https://www.nature.com/articles/s41467-022-29158-y) [source: *Nature* article (Kennett et al. 2022), 2022]
     - associated 🧬 [data](https://www.ebi.ac.uk/ena/browser/view/PRJEB49391) at European Nucleotide Archive -> 41 individual genetic profiles in FASTQ format
     - associated 🧬 [data](https://static-content.springer.com/esm/art%3A10.1038%2Fs41467-022-29158-y/MediaObjects/41467_2022_29158_MOESM5_ESM.zip) in .GENO and .SNP formats -> 20 individual profiles
         - [ADNA tools](https://github.com/DReichLab/ADNA-Tools) for processing that 🧬 data ⬆️
 - [Largest Human Family Tree Identifies Nearly 27 Million Ancestors: Researchers create massive genealogical network dating back 100,000 years](https://www.smithsonianmag.com/smart-news/largest-human-genomic-family-tree-identifies-nealy-27-million-ancestors-180979657/) [source: Smithsonian Magazine, 2022]
         - Video [animation](https://www.youtube.com/watch?v=Cwj0DRUrKXw) 🎥
+
+**2018**
 - [Reconstructing the Deep Population History of Central and South America](https://www.sciencedirect.com/science/article/pii/S0092867418313801) [source: *Cell* article, 2018]
 - [First modern Britons had 'dark to black' skin, Cheddar Man DNA analysis reveals](https://www.theguardian.com/science/2018/feb/07/first-modern-britons-dark-black-skin-cheddar-man-dna-analysis-reveals) [source: The Guardian, 2018]
         - [Face of early Brit revealed](https://www.ucl.ac.uk/news/2018/feb/face-early-brit-revealed) [source: UCL, 2018]
@@ -80,7 +93,7 @@ Miscellaneous resources related to human population genetics / genetic genealogy
 - []() [source: , 202x]
 -->
 
-*Ancient humans*
+### Ancient humans
 - [A new late Neanderthal from Crimea reveals long-distance connections across Eurasia](https://www.pnas.org/doi/10.1073/pnas.2518974122) [source: PNAS, 2025]
 - [Who were the ancient Denisovans? Fossils reveal secrets about the mysterious humans](https://www.nature.com/articles/d41586-025-01549-3) [source: *Nature* news feature, 2025]
 - [Neanderthal–human baby-making was recent — and brief](https://www.nature.com/articles/d41586-024-01452-3) [source: *Nature* news article, 2024]
