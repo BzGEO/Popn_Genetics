@@ -9,11 +9,12 @@ Miscellaneous resources related to human population genetics / genetic genealogy
 
 ### Modern humans
 <!--
-- []() [source: ** news article, 202x]
+- []() [source: ** news article, 2026]
 -->
 
 **2026**
 
+- [Humanity spoke thousands of languages at the dawn of farming — now many of them are lost. A shift from nomadic lifestyles could have triggered linguistic diversity before it then declined rapidly](https://www.nature.com/articles/d41586-026-02279-w) [source: *Nature* news article, 2026]
 - [Mathematics formula found on Maya wall rivals insights of ancient masters. Mathematical texts from a Maya site in Guatemala identify an astronomer called Sak Tahn Waax.](https://www.nature.com/articles/d41586-026-02170-8) [source: *Nature* news article, 2026]
 - [The evolutionary history and unique genetic diversity of Indigenous Americans](https://www.nature.com/articles/s41586-026-10406-w) [source: *Nature*, 2026]
 - [A New Big Database of DNA From Indigenous Americans Shakes Up Scientists’ Theories About Human Settlement of South America](https://www.smithsonianmag.com/smart-news/a-new-big-database-of-dna-from-indigenous-americans-shakes-up-scientific-theories-about-human-settlement-of-south-america-180988628/) [source: *Smithsonian*, 2026]
