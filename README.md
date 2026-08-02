@@ -14,6 +14,7 @@ Miscellaneous resources related to human population genetics / genetic genealogy
 
 **2026**
 
+- [224,000-Year-Old Homo Skull Fragment Adds New Mystery to Human Origins](https://www.sci.news/othersciences/anthropology/ruidera-homo-14960.html) [source: *Sci.News* news article, 2026]
 - [Humanity spoke thousands of languages at the dawn of farming — now many of them are lost. A shift from nomadic lifestyles could have triggered linguistic diversity before it then declined rapidly](https://www.nature.com/articles/d41586-026-02279-w) [source: *Nature* news article, 2026]
 - [Mathematics formula found on Maya wall rivals insights of ancient masters. Mathematical texts from a Maya site in Guatemala identify an astronomer called Sak Tahn Waax.](https://www.nature.com/articles/d41586-026-02170-8) [source: *Nature* news article, 2026]
 - [The evolutionary history and unique genetic diversity of Indigenous Americans](https://www.nature.com/articles/s41586-026-10406-w) [source: *Nature*, 2026]
