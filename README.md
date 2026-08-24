@@ -14,6 +14,7 @@ Miscellaneous resources related to human population genetics / genetic genealogy
 
 **2026**
 
+- [Ancient DNA Reveals How Europe Changed After the Fall of Rome](https://scitechdaily.com/ancient-dna-reveals-how-europe-changed-after-the-fall-of-rome/) [source: *SciTechDaily* news article, 2026]
 - [How smallpox reached the Americas: first genomic evidence points to Europeans. Viral sequences from Chilean mummies confirm the disease was introduced from Europe.](https://www.nature.com/articles/d41586-026-02366-y) [source: *Nature* news article, 2026]
 - [224,000-Year-Old Homo Skull Fragment Adds New Mystery to Human Origins](https://www.sci.news/othersciences/anthropology/ruidera-homo-14960.html) [source: *Sci.News* news article, 2026]
 - [Humanity spoke thousands of languages at the dawn of farming — now many of them are lost. A shift from nomadic lifestyles could have triggered linguistic diversity before it then declined rapidly](https://www.nature.com/articles/d41586-026-02279-w) [source: *Nature* news article, 2026]
